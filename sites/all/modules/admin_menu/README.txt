@@ -18,7 +18,7 @@ To submit bug reports and feature suggestions, or to track changes:
 None.
 
 
--- INSTALLATION1111111 --
+-- INSTALLATION --
 
 * Install as usual, see http://drupal.org/node/70151 for further information.
 
